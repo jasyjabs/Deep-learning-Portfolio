@@ -1,0 +1,34 @@
+
+
+Introduction and Setting Up:
+
+The introduction sets the context and objective of the project clearly.
+Necessary libraries are installed and imported, ensuring the required tools are available for text processing and analysis.
+Quest Begins - The Initial Clue:
+
+The initial clue is analyzed, and the appropriate dataset (Newsgroup 20) is selected based on the clue provided.
+Keyword Quest:
+
+TF-IDF is used to extract keywords from the provided clues.
+The extracted keywords help in identifying the next topic or text to explore.
+Semantic Safari:
+
+Word embeddings (Word2Vec or GloVe) are employed to analyze the semantic similarity between keywords and texts in other categories.
+Advanced exploration with Transformers is also included, enhancing semantic understanding.
+Pattern Pursuit:
+
+Regular expressions are utilized to detect patterns within the clues, potentially revealing hidden codes or messages.
+Collaboration and Convergence:
+
+The importance of collaboration and sharing findings with other teams is highlighted, aligning with the collaborative nature of the project.
+Reflection and Report:
+
+A comprehensive technical report is provided, documenting the entire journey, including methods, techniques, code snippets, and insights gained.
+Reflection on the learnings and potential real-world applications of text processing and vectorization skills is included.
+Overall, the code effectively addresses each stage of the project, demonstrating a structured approach to solving the text treasure hunt challenge. Additionally, the code is well-documented, making it easy to understand the rationale behind each step and the tools used. Collaboration and teamwork aspects are also emphasized, reflecting the collaborative nature of the project.
+
+
+
+
+
+
